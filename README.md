@@ -49,7 +49,15 @@ Diseño y desarrollo **full-stack**: modelo de datos (Prisma), backend, interfaz
 
 ## 📸 Capturas
 
-> _Capturas de la aplicación (sanitizadas, sin datos reales de clientes) — pendientes de agregar._
+> _Capturas reales de la aplicación, con marca de ejemplo y datos de demostración (sin datos reales de clientes)._
+
+| Inicio de sesión (white-label) | Dashboard |
+|:---:|:---:|
+| ![Login](screenshots/login.png) | ![Dashboard](screenshots/dashboard.png) |
+
+| Nuevo expediente | Juzgados |
+|:---:|:---:|
+| ![Nuevo expediente](screenshots/nuevo-expediente.png) | ![Juzgados](screenshots/juzgados.png) |
 
 ---
 

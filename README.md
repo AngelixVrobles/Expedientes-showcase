@@ -67,4 +67,4 @@ El código fuente es **privado** por tratarse de software propietario / de clien
 
 ### Contacto
 
-**Angelix Vásquez** · Angelixvrobles1234@outlook.com · [GitHub](https://github.com/AngelixVrobles)
+**Angelix Vásquez** · [GitHub](https://github.com/AngelixVrobles)

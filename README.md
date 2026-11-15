@@ -35,6 +35,7 @@ Sistema de gestión de expedientes legales para abogados y bufetes. Centraliza c
 | Base de datos | PostgreSQL |
 | Documentos | jsPDF, jspdf-autotable, docx-preview |
 | Datos / tablas | TanStack Table |
+| Seguridad | NextAuth (sesiones), bcrypt |
 | Infraestructura | Docker + docker-compose (app + PostgreSQL + nginx HTTPS), VPS |
 
 ## Mi rol
@@ -49,7 +50,7 @@ Diseño y desarrollo **full-stack**: modelo de datos (Prisma), backend, interfaz
 
 ## Capturas
 
-> _Capturas reales de la aplicación, con marca de ejemplo y datos de demostración (sin datos reales de clientes)._
+> _Capturas reales del despliegue para un cliente, **Bufete Polanco & Asociados**, publicadas con su permiso. Los datos son de demostración: no aparece información real de casos._
 
 | Inicio de sesión (white-label) | Dashboard |
 |:---:|:---:|
@@ -67,4 +68,4 @@ El código fuente es **privado** por tratarse de software propietario / de clien
 
 ### Contacto
 
-**Angelix Vásquez** · [GitHub](https://github.com/AngelixVrobles)
+**Angelix Vásquez R.** · [GitHub](https://github.com/AngelixVrobles)
